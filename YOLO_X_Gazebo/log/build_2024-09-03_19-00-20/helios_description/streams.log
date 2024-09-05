@@ -1,0 +1,52 @@
+[0.008s] Invoking command in '/home/mta/project_helios/build/helios_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mta/project_helios/src/helios_description -DCMAKE_INSTALL_PREFIX=/home/mta/project_helios/install/helios_description
+[0.042s] -- The C compiler identification is GNU 11.4.0
+[0.073s] -- The CXX compiler identification is GNU 11.4.0
+[0.077s] -- Detecting C compiler ABI info
+[0.122s] -- Detecting C compiler ABI info - done
+[0.126s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.126s] -- Detecting C compile features
+[0.126s] -- Detecting C compile features - done
+[0.128s] -- Detecting CXX compiler ABI info
+[0.173s] -- Detecting CXX compiler ABI info - done
+[0.177s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.177s] -- Detecting CXX compile features
+[0.178s] -- Detecting CXX compile features - done
+[0.178s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.418s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.470s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[0.494s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.538s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.539s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.539s] -- Added test 'lint_cmake' to check CMake code style
+[0.539s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.539s] -- Added test 'xmllint' to check XML markup files
+[0.540s] -- Configuring done
+[0.541s] -- Generating done
+[0.542s] -- Build files have been written to: /home/mta/project_helios/build/helios_description
+[0.546s] Invoked command in '/home/mta/project_helios/build/helios_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mta/project_helios/src/helios_description -DCMAKE_INSTALL_PREFIX=/home/mta/project_helios/install/helios_description
+[0.546s] Invoking command in '/home/mta/project_helios/build/helios_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/helios_description -- -j20 -l20
+[0.567s] Invoked command in '/home/mta/project_helios/build/helios_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/helios_description -- -j20 -l20
+[0.581s] Invoking command in '/home/mta/project_helios/build/helios_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/helios_description
+[0.585s] -- Install configuration: ""
+[0.585s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//launch
+[0.585s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//launch/spawn_helios_launch.launch.py
+[0.585s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//launch/spawn_helios.py
+[0.585s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//robot
+[0.585s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//robot/helios.urdf
+[0.585s] -- Up-to-date: /home/mta/project_helios/install/helios_description/lib/helios_description/spawn_helios.py
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/package_run_dependencies/helios_description
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/parent_prefix_path/helios_description
+[0.585s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/environment/ament_prefix_path.sh
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/environment/ament_prefix_path.dsv
+[0.585s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/environment/path.sh
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/environment/path.dsv
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.bash
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.sh
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.zsh
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.dsv
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/package.dsv
+[0.585s] -- Installing: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/packages/helios_description
+[0.586s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/cmake/helios_descriptionConfig.cmake
+[0.586s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/cmake/helios_descriptionConfig-version.cmake
+[0.586s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/package.xml
+[0.587s] Invoked command in '/home/mta/project_helios/build/helios_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/helios_description

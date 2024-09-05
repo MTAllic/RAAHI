@@ -1,0 +1,6 @@
+Invoking command in '/home/mta/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mta/yolobot/src/yolobot_description -DCMAKE_INSTALL_PREFIX=/home/mta/yolobot/install/yolobot_description
+Invoked command in '/home/mta/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mta/yolobot/src/yolobot_description -DCMAKE_INSTALL_PREFIX=/home/mta/yolobot/install/yolobot_description
+Invoking command in '/home/mta/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/yolobot/build/yolobot_description -- -j20 -l20
+Invoked command in '/home/mta/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/yolobot/build/yolobot_description -- -j20 -l20
+Invoking command in '/home/mta/yolobot/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/yolobot/build/yolobot_description
+Invoked command in '/home/mta/yolobot/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/yolobot/build/yolobot_description

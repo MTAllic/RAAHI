@@ -1,0 +1,4 @@
+Invoking command in '/home/mta/project_helios/build/yolobot_recognition': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/yolobot_recognition -- -j20 -l20
+Invoked command in '/home/mta/project_helios/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/yolobot_recognition -- -j20 -l20
+Invoking command in '/home/mta/project_helios/build/yolobot_recognition': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/yolobot_recognition
+Invoked command in '/home/mta/project_helios/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/yolobot_recognition

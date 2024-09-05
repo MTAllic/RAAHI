@@ -1,0 +1,26 @@
+[0.011s] Invoking command in '/home/mta/project_helios/build/helios_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/helios_control -- -j20 -l20
+[0.031s] Invoked command in '/home/mta/project_helios/build/helios_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/helios_control -- -j20 -l20
+[0.054s] Invoking command in '/home/mta/project_helios/build/helios_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/helios_control
+[0.059s] -- Install configuration: ""
+[0.059s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control//scripts
+[0.060s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control//scripts/robot_control.py
+[0.060s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control//launch
+[0.060s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control//launch/helios_control.launch.py
+[0.060s] -- Up-to-date: /home/mta/project_helios/install/helios_control/lib/helios_control/robot_control.py
+[0.060s] -- Up-to-date: /home/mta/project_helios/install/helios_control/lib/helios_control/helios_control.launch.py
+[0.060s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/ament_index/resource_index/package_run_dependencies/helios_control
+[0.061s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/ament_index/resource_index/parent_prefix_path/helios_control
+[0.062s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/environment/ament_prefix_path.sh
+[0.062s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/environment/ament_prefix_path.dsv
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/environment/path.sh
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/environment/path.dsv
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/local_setup.bash
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/local_setup.sh
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/local_setup.zsh
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/local_setup.dsv
+[0.063s] -- Installing: /home/mta/project_helios/install/helios_control/share/helios_control/package.dsv
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/ament_index/resource_index/packages/helios_control
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/cmake/helios_controlConfig.cmake
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/cmake/helios_controlConfig-version.cmake
+[0.063s] -- Up-to-date: /home/mta/project_helios/install/helios_control/share/helios_control/package.xml
+[0.075s] Invoked command in '/home/mta/project_helios/build/helios_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/helios_control

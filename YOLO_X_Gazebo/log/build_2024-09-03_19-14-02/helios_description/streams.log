@@ -1,0 +1,26 @@
+[0.014s] Invoking command in '/home/mta/project_helios/build/helios_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/helios_description -- -j20 -l20
+[0.037s] Invoked command in '/home/mta/project_helios/build/helios_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/helios_description -- -j20 -l20
+[0.070s] Invoking command in '/home/mta/project_helios/build/helios_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/helios_description
+[0.079s] -- Install configuration: ""
+[0.079s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//launch
+[0.079s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//launch/spawn_helios_launch.launch.py
+[0.079s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//launch/spawn_helios.py
+[0.080s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//robot
+[0.080s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description//robot/helios.urdf
+[0.080s] -- Up-to-date: /home/mta/project_helios/install/helios_description/lib/helios_description/spawn_helios.py
+[0.080s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/package_run_dependencies/helios_description
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/parent_prefix_path/helios_description
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/environment/ament_prefix_path.sh
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/environment/ament_prefix_path.dsv
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/environment/path.sh
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/environment/path.dsv
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.bash
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.sh
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.zsh
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.dsv
+[0.081s] -- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/package.dsv
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/packages/helios_description
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/cmake/helios_descriptionConfig.cmake
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/cmake/helios_descriptionConfig-version.cmake
+[0.082s] -- Up-to-date: /home/mta/project_helios/install/helios_description/share/helios_description/package.xml
+[0.200s] Invoked command in '/home/mta/project_helios/build/helios_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/helios_description

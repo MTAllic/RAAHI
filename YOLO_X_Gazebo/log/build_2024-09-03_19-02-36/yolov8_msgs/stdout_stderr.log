@@ -1,0 +1,86 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found std_msgs: 4.2.4 (/opt/ros/humble/share/std_msgs/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mta/project_helios/build/yolov8_msgs
+[35m[1mConsolidate compiler generated dependencies of target yolov8_msgs__rosidl_generator_c[0m
+[ 10%] Built target yolov8_msgs__rosidl_generator_c
+[ 12%] Built target yolov8_msgs__cpp
+[ 15%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[ 17%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[ 20%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[ 20%] Built target ament_cmake_python_copy_yolov8_msgs
+[35m[1mConsolidate compiler generated dependencies of target yolov8_msgs__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target yolov8_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target yolov8_msgs__rosidl_typesupport_introspection_cpp[0m
+[ 30%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_cpp
+[ 41%] Built target yolov8_msgs__rosidl_typesupport_cpp
+[ 51%] Built target yolov8_msgs__rosidl_typesupport_introspection_cpp
+running egg_info
+writing yolov8_msgs.egg-info/PKG-INFO
+writing dependency_links to yolov8_msgs.egg-info/dependency_links.txt
+writing top-level names to yolov8_msgs.egg-info/top_level.txt
+[ 53%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/yolov8_msgs/msg/yolov8_inference__type_support.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/yolov8_msgs/msg/inference_result__type_support.cpp.o[0m
+reading manifest file 'yolov8_msgs.egg-info/SOURCES.txt'
+[ 58%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/yolov8_msgs/msg/detail/yolov8_inference__type_support.c.o[0m
+[ 61%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/yolov8_msgs/msg/detail/inference_result__type_support.c.o[0m
+Traceback (most recent call last):
+  File "/home/mta/project_helios/build/yolov8_msgs/ament_cmake_python/yolov8_msgs/setup.py", line 4, in <module>
+    setup(
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 117, in setup
+    return distutils.core.setup(**attrs)
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 184, in setup
+    return run_commands(dist)
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 200, in run_commands
+    dist.run_commands()
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 954, in run_commands
+    self.run_command(cmd)
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/dist.py", line 950, in run_command
+[ 66%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/yolov8_msgs/msg/detail/inference_result__type_support_c.cpp.o[0m
+    super().run_command(command)
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 973, in run_command
+    cmd_obj.run()
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/command/egg_info.py", line 311, in run
+    self.find_sources()
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/command/egg_info.py", line 319, in find_sources
+    mm.run()
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/command/egg_info.py", line 545, in run
+    self.prune_file_list()
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/command/sdist.py", line 161, in prune_file_list
+    super().prune_file_list()
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/command/sdist.py", line 392, in prune_file_list
+    base_dir = self.distribution.get_fullname()
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 267, in get_fullname
+    return _distribution_fullname(self.get_name(), self.get_version())
+  File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 285, in _distribution_fullname
+    canonicalize_version(version, strip_trailing_zero=False),
+TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'
+[ 66%] [32mBuilding CXX object CMakeFiles/yolov8_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/yolov8_msgs/msg/detail/yolov8_inference__type_support_c.cpp.o[0m
+[ 69%] [32m[1mLinking CXX shared library libyolov8_msgs__rosidl_typesupport_c.so[0m
+gmake[2]: *** [CMakeFiles/ament_cmake_python_build_yolov8_msgs_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_yolov8_msgs_egg] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_yolov8_msgs_egg.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+[ 71%] [32m[1mLinking C shared library libyolov8_msgs__rosidl_typesupport_introspection_c.so[0m
+[ 71%] Built target yolov8_msgs__rosidl_typesupport_c
+[ 71%] Built target yolov8_msgs__rosidl_typesupport_introspection_c
+[ 74%] [32m[1mLinking CXX shared library libyolov8_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[ 74%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_c
+gmake: *** [Makefile:146: all] Error 2

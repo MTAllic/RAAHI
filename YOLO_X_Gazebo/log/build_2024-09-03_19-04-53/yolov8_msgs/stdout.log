@@ -1,0 +1,27 @@
+[  2%] Built target yolov8_msgs__cpp
+[ 12%] Built target yolov8_msgs__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_copy_yolov8_msgs
+[ 23%] Built target yolov8_msgs__rosidl_typesupport_c
+[ 33%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_cpp
+[ 43%] Built target yolov8_msgs__rosidl_typesupport_introspection_c
+[ 53%] Built target yolov8_msgs__rosidl_typesupport_introspection_cpp
+[ 64%] Built target yolov8_msgs__rosidl_typesupport_cpp
+[ 74%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_c
+[ 74%] Built target yolov8_msgs
+[ 76%] Built target yolov8_msgs__py
+[35m[1mConsolidate compiler generated dependencies of target yolov8_msgs__rosidl_generator_py[0m
+[ 84%] Built target yolov8_msgs__rosidl_generator_py
+[ 89%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[ 89%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 92%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/yolov8_msgs/_yolov8_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+running egg_info
+[ 94%] [32m[1mLinking C shared library rosidl_generator_py/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 97%] [32m[1mLinking C shared library rosidl_generator_py/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[100%] [32m[1mLinking C shared library rosidl_generator_py/yolov8_msgs/yolov8_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+writing yolov8_msgs.egg-info/PKG-INFO
+writing dependency_links to yolov8_msgs.egg-info/dependency_links.txt
+writing top-level names to yolov8_msgs.egg-info/top_level.txt
+[100%] Built target yolov8_msgs__rosidl_typesupport_c__pyext
+reading manifest file 'yolov8_msgs.egg-info/SOURCES.txt'
+[100%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_c__pyext
+[100%] Built target yolov8_msgs__rosidl_typesupport_introspection_c__pyext

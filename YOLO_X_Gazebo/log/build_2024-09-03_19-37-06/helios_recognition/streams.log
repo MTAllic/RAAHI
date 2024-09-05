@@ -1,0 +1,32 @@
+[0.014s] Invoking command in '/home/mta/project_helios/build/helios_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/helios_recognition -- -j20 -l20
+[0.037s] Invoked command in '/home/mta/project_helios/build/helios_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/helios_recognition -- -j20 -l20
+[0.070s] Invoking command in '/home/mta/project_helios/build/helios_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/helios_recognition
+[0.080s] -- Install configuration: ""
+[0.080s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//scripts
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//scripts/.dockerignore
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//scripts/yolov8_ros2_pt.py
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//scripts/yolov8_ros2_subscriber.py
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//scripts/yolov8n.pt
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//scripts/.gitattributes
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//scripts/.gitignore
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//launch
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition//launch/launch_yolov8.launch.py
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/lib/helios_recognition/yolov8_ros2_pt.py
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/lib/helios_recognition/yolov8_ros2_subscriber.py
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/lib/helios_recognition/launch_yolov8.launch.py
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/ament_index/resource_index/package_run_dependencies/helios_recognition
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/ament_index/resource_index/parent_prefix_path/helios_recognition
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/environment/ament_prefix_path.sh
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/environment/ament_prefix_path.dsv
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/environment/path.sh
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/environment/path.dsv
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/local_setup.bash
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/local_setup.sh
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/local_setup.zsh
+[0.081s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/local_setup.dsv
+[0.081s] -- Installing: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/package.dsv
+[0.082s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/ament_index/resource_index/packages/helios_recognition
+[0.082s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/cmake/helios_recognitionConfig.cmake
+[0.082s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/cmake/helios_recognitionConfig-version.cmake
+[0.082s] -- Up-to-date: /home/mta/project_helios/install/helios_recognition/share/helios_recognition/package.xml
+[0.095s] Invoked command in '/home/mta/project_helios/build/helios_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mta/project_helios/build/helios_recognition

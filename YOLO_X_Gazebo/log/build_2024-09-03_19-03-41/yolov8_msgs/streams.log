@@ -1,0 +1,56 @@
+[0.014s] Invoking command in '/home/mta/project_helios/build/yolov8_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/yolov8_msgs -- -j20 -l20
+[0.044s] [ 12%] Built target yolov8_msgs__rosidl_generator_c
+[0.044s] [ 12%] Built target yolov8_msgs__cpp
+[0.050s] [ 12%] Built target ament_cmake_python_copy_yolov8_msgs
+[0.060s] [ 23%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_cpp
+[0.065s] [ 33%] Built target yolov8_msgs__rosidl_typesupport_cpp
+[0.065s] [ 43%] Built target yolov8_msgs__rosidl_typesupport_introspection_cpp
+[0.065s] [ 53%] Built target yolov8_msgs__rosidl_typesupport_fastrtps_c
+[0.065s] [ 64%] Built target yolov8_msgs__rosidl_typesupport_introspection_c
+[0.065s] [ 74%] Built target yolov8_msgs__rosidl_typesupport_c
+[0.073s] [ 74%] Built target yolov8_msgs
+[0.084s] [ 76%] Built target yolov8_msgs__py
+[0.096s] [ 79%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_generator_py.dir/rosidl_generator_py/yolov8_msgs/msg/_yolov8_inference_s.c.o[0m
+[0.097s] [ 82%] [32mBuilding C object CMakeFiles/yolov8_msgs__rosidl_generator_py.dir/rosidl_generator_py/yolov8_msgs/msg/_inference_result_s.c.o[0m
+[0.166s] running egg_info
+[0.172s] writing yolov8_msgs.egg-info/PKG-INFO
+[0.173s] writing dependency_links to yolov8_msgs.egg-info/dependency_links.txt
+[0.173s] writing top-level names to yolov8_msgs.egg-info/top_level.txt
+[0.193s] reading manifest file 'yolov8_msgs.egg-info/SOURCES.txt'
+[0.202s] Traceback (most recent call last):
+[0.202s]   File "/home/mta/project_helios/build/yolov8_msgs/ament_cmake_python/yolov8_msgs/setup.py", line 4, in <module>
+[0.202s]     setup(
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 117, in setup
+[0.202s]     return distutils.core.setup(**attrs)
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 184, in setup
+[0.202s]     return run_commands(dist)
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 200, in run_commands
+[0.202s]     dist.run_commands()
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 954, in run_commands
+[0.202s]     self.run_command(cmd)
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/dist.py", line 950, in run_command
+[0.202s]     super().run_command(command)
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 973, in run_command
+[0.202s]     cmd_obj.run()
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/command/egg_info.py", line 311, in run
+[0.202s]     self.find_sources()
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/command/egg_info.py", line 319, in find_sources
+[0.202s]     mm.run()
+[0.202s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/command/egg_info.py", line 545, in run
+[0.203s]     self.prune_file_list()
+[0.203s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/command/sdist.py", line 161, in prune_file_list
+[0.203s]     super().prune_file_list()
+[0.203s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_distutils/command/sdist.py", line 392, in prune_file_list
+[0.203s]     base_dir = self.distribution.get_fullname()
+[0.203s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 267, in get_fullname
+[0.203s]     return _distribution_fullname(self.get_name(), self.get_version())
+[0.203s]   File "/home/mta/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 285, in _distribution_fullname
+[0.203s]     canonicalize_version(version, strip_trailing_zero=False),
+[0.203s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'
+[0.218s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_yolov8_msgs_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_yolov8_msgs_egg] Error 1
+[0.218s] gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_yolov8_msgs_egg.dir/all] Error 2
+[0.218s] gmake[1]: *** Waiting for unfinished jobs....
+[0.243s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/yolov8_msgs/libyolov8_msgs__rosidl_generator_py.so[0m
+[0.284s] [ 84%] Built target yolov8_msgs__rosidl_generator_py
+[0.286s] gmake: *** [Makefile:146: all] Error 2
+[0.287s] Invoked command in '/home/mta/project_helios/build/yolov8_msgs' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mta/project_helios/build/yolov8_msgs -- -j20 -l20

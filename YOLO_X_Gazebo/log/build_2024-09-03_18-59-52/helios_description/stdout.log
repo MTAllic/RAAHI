@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description//launch
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description//launch/spawn_helios_launch.launch.py
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description//launch/spawn_helios.py
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description//robot
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description//robot/helios.urdf
+-- Installing: /home/mta/project_helios/install/helios_description/lib/helios_description/spawn_helios.py
+-- Installing: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/package_run_dependencies/helios_description
+-- Installing: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/parent_prefix_path/helios_description
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/environment/ament_prefix_path.sh
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/environment/ament_prefix_path.dsv
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/environment/path.sh
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/environment/path.dsv
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.bash
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.sh
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.zsh
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/local_setup.dsv
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/package.dsv
+-- Installing: /home/mta/project_helios/install/helios_description/share/ament_index/resource_index/packages/helios_description
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/cmake/helios_descriptionConfig.cmake
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/cmake/helios_descriptionConfig-version.cmake
+-- Installing: /home/mta/project_helios/install/helios_description/share/helios_description/package.xml

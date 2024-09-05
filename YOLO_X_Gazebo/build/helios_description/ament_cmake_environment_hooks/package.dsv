@@ -1,0 +1,4 @@
+source;share/helios_description/local_setup.bash
+source;share/helios_description/local_setup.dsv
+source;share/helios_description/local_setup.sh
+source;share/helios_description/local_setup.zsh

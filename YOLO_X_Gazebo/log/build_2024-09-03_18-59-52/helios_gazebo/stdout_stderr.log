@@ -1,0 +1,21 @@
+-- Install configuration: ""
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo//launch
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo//launch/helios_launch.py
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo//launch/start_world_launch.py
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo//worlds
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo//worlds/yolo_test.world
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/ament_index/resource_index/package_run_dependencies/helios_gazebo
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/ament_index/resource_index/parent_prefix_path/helios_gazebo
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/environment/ament_prefix_path.sh
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/environment/ament_prefix_path.dsv
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/environment/path.sh
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/environment/path.dsv
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/local_setup.bash
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/local_setup.sh
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/local_setup.zsh
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/local_setup.dsv
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/package.dsv
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/ament_index/resource_index/packages/helios_gazebo
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/cmake/helios_gazeboConfig.cmake
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/cmake/helios_gazeboConfig-version.cmake
+-- Installing: /home/mta/project_helios/install/helios_gazebo/share/helios_gazebo/package.xml
