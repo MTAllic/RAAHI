@@ -1,6 +1,6 @@
 **Command Sequence:**
 
-source project_helios/install/setup.bash
+source YOLO_X_Gazebo/install/setup.bash
 
 ros2 launch helios_gazebo helios_launch.py
 
