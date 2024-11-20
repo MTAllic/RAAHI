@@ -1,0 +1,13 @@
+string class_name
+int64 top
+int64 left
+int64 bottom
+int64 right
+int32 center_x 
+int32 center_y 
+float32 angle
+float32 distance
+float32 front_distance
+float32 back_distance
+float32 left_distance
+float32 right_distance
