@@ -1,7 +1,7 @@
 # Autonomous Navigation System with Camera and LiDAR
 
 Welcome to the **Autonomous Navigation System** project repository! This system leverages **camera and LiDAR inputs** to understand its surroundings semantically and employs **Large Language Models (LLMs)** to reason and make navigation decisions in complex environments. Designed for simulation and real-world applications, the project emphasizes efficiency, adaptability, and robustness in autonomous navigation.
-
+![SYSTEM IN ACTION](images/Picture5.jpg)
 ---
 
 ## Overview
