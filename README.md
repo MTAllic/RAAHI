@@ -1,7 +1,9 @@
 # Autonomous Navigation System with Camera and LiDAR
 
 Welcome to the **Autonomous Navigation System** project repository! This system leverages **camera and LiDAR inputs** to understand its surroundings semantically and employs **Large Language Models (LLMs)** to reason and make navigation decisions in complex environments. Designed for simulation and real-world applications, the project emphasizes efficiency, adaptability, and robustness in autonomous navigation.
+
 ![SYSTEM IN ACTION](images/Picture5.png)
+
 ---
 
 ## Overview
@@ -21,6 +23,7 @@ This project integrates multiple advanced technologies to create an autonomous n
 - **LLM-Based Decision Making**: Employs LLMs for high-level navigation reasoning.
 - **Simulation and Real-World Ready**: Fully compatible with simulation platforms and designed for real-world implementation.
 - **Modular Design**: Separate components for simulation, object recognition, LLM integration, and navigation.
+  
 !["LIDAR AND CAMERA PREVIEW IN RVIZ2"](images/Picture2.jpg)
 ![COST MAP](images/Picture10.jpg)
 ![YOLOv8 IN ACTION](images/Picture4.jpg)
