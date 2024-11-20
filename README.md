@@ -25,10 +25,10 @@ This project integrates multiple advanced technologies to create an autonomous n
 - **Modular Design**: Separate components for simulation, object recognition, LLM integration, and navigation.
   
 ![](images/Picture2.jpg)
-![Cost Map](images/Picture10.jpg)
-![YOLOv8 in Action](images/Picture4.jpg)
-![YOLOv8 Inferences](images/Picture9.jpg)
-![LLM in Action](images/Picture12.jpg)
+![](images/Picture10.jpg)
+![](images/Picture4.jpg)
+![](images/Picture9.jpg)
+![](images/Picture12.jpg)
 ---
 
 ## Getting Started
